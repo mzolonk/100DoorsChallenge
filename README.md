@@ -27,7 +27,7 @@ Use @ for an open door and # for a closed door.
 ### Examples
 The first six doors could look something like this: **@@##@@##**
 
-#License
+# License
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
