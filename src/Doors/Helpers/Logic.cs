@@ -23,9 +23,8 @@ namespace Doors.Helpers
                         Doors[i].State = Doors[i].State == DoorState.Closed ? DoorState.Opened : DoorState.Closed;
                     }
                 }
-                //Doors = Doors.ToList().Where((x, i) => i % FlipNumber == 0).Select(c => { _ = c.State == DoorState.Closed ? DoorState.Opened : DoorState.Closed; return c; }).ToList();
+
                 Counter += 1;
-                //var er = Doors.Where((x, i) => i % FlipNumber == 0);//.
                                                                     //All((x => x.State == DoorState.Closed));
             }
         }
