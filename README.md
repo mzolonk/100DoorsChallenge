@@ -1,0 +1,2 @@
+# 100DoorsChallenge
+Code Kata
